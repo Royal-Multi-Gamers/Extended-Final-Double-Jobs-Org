@@ -2,7 +2,7 @@
 Es_Extended en Double Jobs + Organisation, utilisé par le serveur RoyalRP.fr de notre équipe.
 
 # www.Clan-RmG.com 
-# http://discord.gg/Y366bjZ
+# http://discord.gg/tbWPjb5
 
 # Extended-Final-Double-Jobs-Org
 Double Jobs + Organistion pour ex_extended de ESX-ORG qui ne fonctionne plus avec EssentialMod
