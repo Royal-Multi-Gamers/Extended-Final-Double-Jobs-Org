@@ -62,9 +62,33 @@ CREATE TABLE `users` (
   `position` varchar(255) DEFAULT '{"x":-269.4,"y":-955.3,"z":31.2,"heading":205.8}'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+
 --
--- Index pour les tables déchargées
+-- Structure de la table `org_gradeorg`
 --
+
+CREATE TABLE `org_gradeorg` (
+  `id` int(11) NOT NULL,
+  `org_name` varchar(50) DEFAULT NULL,
+  `gradeorg` int(11) NOT NULL,
+  `name` varchar(50) NOT NULL,
+  `label` varchar(50) NOT NULL,
+  `salary` int(11) NOT NULL,
+  `skin_male` longtext NOT NULL,
+  `skin_female` longtext NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+--
+-- AUTO_INCREMENT pour les tables déchargées
+--
+
+--
+-- AUTO_INCREMENT pour la table `org_gradeorg`
+--
+ALTER TABLE `org_gradeorg`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+COMMIT;
 
 --
 -- Index pour la table `org`
