@@ -1,5 +1,5 @@
 # Extended-Final-Double-Jobs-Org
-Es_Extended en Double Jobs + Organisation, utilisé par le serveur RoyalRP.fr de notre équipe.
+Es_Extended en Double Jobs + Organisation, utilisé par le serveur FiveM de notre équipe.
 
 # www.Clan-RmG.com 
 # http://discord.gg/tbWPjb5
